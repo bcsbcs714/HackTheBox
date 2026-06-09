@@ -1,4 +1,4 @@
-[SalineBreeze-2.pdf](https://github.com/user-attachments/files/28695722/SalineBreeze-2.pdf)
+Hack the box Sherlock malwares 에 있는 SalineBreeze 풀이에영
 
 <img width="2480" height="3508" alt="SalineBreeze-2-이미지-0" src="https://github.com/user-attachments/assets/1492f580-b399-4ff1-8064-f0f8d46ec17e" />
 <img width="2480" height="3508" alt="SalineBreeze-2-이미지-1" src="https://github.com/user-attachments/assets/58ada8f8-b67c-4419-939f-09f841dbcb18" />
